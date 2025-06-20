@@ -1,9 +1,9 @@
-# Topics
-Introduction to Python
-Introduction to Numpy, Scikit-Learn, PyTorch, Tensorflow
-Introduction to Matplotlib
+# Topics <br>
+Introduction to Python <br>
+Introduction to Numpy, Scikit-Learn, PyTorch, Tensorflow <br>
+Introduction to Matplotlib <br>
 
-Simple Neutral Nework
-Linear Regression I
-Linear Regression II
-Markov Chain
+Simple Neutral Nework  <br>
+Linear Regression I  <br>
+Linear Regression II  <br>
+Markov Chain  <br>
