@@ -7,3 +7,4 @@ Simple Neutral Nework  <br>
 Linear Regression I  <br>
 Linear Regression II  <br>
 Markov Chain  <br>
+Diffusion Model (open homework) <br>
