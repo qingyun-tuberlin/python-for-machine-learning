@@ -1,0 +1,16 @@
+Code Style
+https://peps.python.org/pep-0008/
+https://google.github.io/styleguide/pyguide.html
+
+AI Tools, recommended usage
+https://docs.google.com/document/u/0/d/e/2PACX-1vRI-C88XqjuGpCZj2y-MBp20o0R5EQWXlkNPJ4axVj7OCniLilob4YSiv1Mdfp-rBIrpMfARHDItgRw/pub?pli=1
+
+Google AI Studio
+https://ai.google.dev/gemini-api/docs/available-regions?hl=de
+Claude
+Gemini
+
+
+IDE
+PyCharm
+VSCode
